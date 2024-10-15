@@ -33,6 +33,8 @@ Big drivers
 - Huge bet concentration
 - Multiple devices
 - Contacted customer service
+- Frequent withdrawal apply
+- 
 
 
 
