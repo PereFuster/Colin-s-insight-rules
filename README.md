@@ -19,3 +19,30 @@ Hi I am investigating this rule, and I would like to ask, what would you conside
 **Type 3: Withdrawal apply -**
 
 This is more likely to show any insight 
+
+
+**Literature review on Drivers of dispute**
+
+Outliers and anomalies
+
+
+Big drivers 
+
+- Big loses
+- Big amount of payments
+- Huge bet concentration
+- Multiple devices
+- Contacted customer service
+
+
+
+
+
+
+
+
+
+
+
+
+
